@@ -1,0 +1,18 @@
+.item {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 8px;
+}
+
+.item button {
+    padding: 4px 8px;
+    background: #e57373;
+    border: none;
+    color: #fff;
+    cursor: pointer;
+    border-radius: 3px;
+}
+
+.item button:hover {
+    background: #c62828;
+}
